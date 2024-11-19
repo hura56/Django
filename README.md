@@ -3,9 +3,13 @@
 ~/swagger to test endpoints
 ~/admin to admin panel
 
-Main functionalities:
+# Main functionalities:
 User authentication
+
 Searching for upcoming MMA events
+
 Favourites section
+
 User predictions for fight outcome
+
 Comment section
